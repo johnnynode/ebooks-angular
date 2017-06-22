@@ -4,5 +4,5 @@
 > Tips here: Browsing pdf file directly on github is not perfectly supported yet in consequence of the file size. <br>
 > Please view the download links below:
 
-- [AngularJS- Up and Running.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-angular/master/AngularJS- Up and Running.pdf)
+- [AngularJS-Up-and-Running.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-angular/master/AngularJS-Up-and-Running.pdf)
 - [AngularJS权威教程.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-angular/master/AngularJS权威教程.pdf)
